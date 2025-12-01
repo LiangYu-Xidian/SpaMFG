@@ -1,1 +1,2 @@
-# SpaMFG
+# SpaMFG: A Spatially-Aware Multi-Omics Feature Grouping & Integration Framework
+This repository provides an end-to-end framework for integrating RNA and ATAC multi-omics data with spatial information. The method performs feature preprocessing, spatial-enhanced similarity computation, spectral clustering, cross-modality feature matching, MOFA-based integration, and downstream clustering/visualization. The implementation is designed for spatial or single-cell multi-omics datasets such as Mouse Thymus and provides a robust pipeline for identifying biologically consistent feature modules across modalities.
